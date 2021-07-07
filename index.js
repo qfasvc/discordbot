@@ -3,8 +3,8 @@ const Discord = require('discord.js');
 const fs = require('fs');
 const client = new Discord.Client();
 const config = require('./config.json');
-const quiz = require("./quiz.json");
-const huquiz = require('./huquiz');
+const quiz = require("./json/quiz.json");
+const huquiz = require('./json/huquiz');
 
 
 client.on('ready', () => {
