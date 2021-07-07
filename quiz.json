@@ -1,0 +1,28 @@
+[
+    {
+        "question" : "(여자)아이들 데뷔일(000000형식으로 쓸것)",
+        "answer" : ["180502"]
+    },
+    {
+        "question" : "1부터 5까지 하나만 아무거나 적어라",
+        "answer" : ["1","2","3","4","5"]
+    },
+    {
+        "question" : "(여자)아이들 데뷔 앨범은?",
+        "answer" : ["I AM"]
+    },
+    {
+        "question" : "야스오의 형은?",
+        "answer" : ["요네"]
+    },
+    {
+        "question" : "이것은?",
+        "img": "https://about.netflix.com/images/meta/netflix-symbol-black.png",
+        "answer" : ["넷플릭스","netfelix"]
+    },
+    {
+        "question" : "누굴까?",
+        "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MDRfMjE0%2FMDAxNjI1MzU1MjI1ODI2.BJRvPum0gyUE8Elm_HbAr8YuLPLjIFxf_OL0-06jljAg.-PFGEl8oR3wT1JySJPgxHsbKRYFGx8CofTJ57G-Wht4g.JPEG.minaji49%2F20210627%25A3%25DF125838%25A3%25DFpolarr.jpg&type=sc960_832",
+        "answer" : ["전소연"]
+    }
+]
