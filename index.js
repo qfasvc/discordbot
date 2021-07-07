@@ -6,6 +6,7 @@ const config = require('./config.json');
 const quiz = require("./quiz.json");
 const huquiz = require('./huquiz');
 
+
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
