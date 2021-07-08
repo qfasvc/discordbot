@@ -186,6 +186,26 @@
     {
         "img" : "https://images.chosun.com/resizer/WFPcozKY65Lijy-CxDzlHU-X1f8=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74DEYX6SRW6N4X2BZ6P52NL4O4.jpg",
         "answer" : ["표예진"]
+    },
+    {
+        "img" : "https://dimg.donga.com/wps/NEWS/IMAGE/2021/05/17/106981861.2.jpg",
+        "answer" : ["이다희"]
+    },
+    {
+        "img" : "https://image.news1.kr/system/photos/2019/8/26/3793295/article.jpg/dims/optimize",
+        "answer" : ["이광수"]
+    },
+    {
+        "img" : "https://cdn1.dotesports.com/wp-content/uploads/2019/10/31125903/faker.jpg",
+        "answer" : ["이상혁","faker"]
+    },
+    {
+        "img" : "https://img6.yna.co.kr/photo/cms/2019/09/04/50/PCM20190904000250505_P4.jpg",
+        "answer" : ["비","정지훈"]
+    },
+    {
+        "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2019/12/27/201912271161077566_1.jpg",
+        "answer" : ["헤이즈","장다혜"]
     }
     
 ]
