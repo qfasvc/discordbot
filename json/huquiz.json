@@ -206,6 +206,141 @@
     {
         "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2019/12/27/201912271161077566_1.jpg",
         "answer" : ["헤이즈","장다혜"]
+    },
+    {
+        "img" : "https://cphoto.asiae.co.kr/listimglink/1/2019090620395553926_1567769996.jpg",
+        "answer" : ["벤","ben"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/201801/01.15575853.1.jpg",
+        "answer" : ["윤민수"]
+    },
+    {
+        "img" : "https://img.tvreportcdn.de/cms-content/uploads/2020/11/30/8f01d9dc-72bf-4c44-abfb-cc9c615dd9c6.jpg",
+        "answer" : ["이동휘"]
+    },
+    {
+        "img" : "https://img.sbs.co.kr/newsnet/etv/upload/2020/04/20/30000646043_700.jpg",
+        "answer" : ["류준열"]
+    },
+    {
+        "img" : "https://t1.daumcdn.net/cfile/tistory/99F0BA3359E70F8430",
+        "answer" : ["혜리"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/bNHqRQ/btqzHULg8x7/QNsfuqKEu7TKDYvvsmqXK0/img.jpg",
+        "answer" : ["김연우"]
+    },
+    {
+        "img" : "https://news.kbs.co.kr/data/news/2018/10/26/4060385_xrq.jpg",
+        "answer" : ["하현우"]
+    },
+    {
+        "img" : "https://rereco.co/wp-content/uploads/2020/02/%E2%93%92.-%EC%95%A4%EC%9C%A0%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.jpg",
+        "answer" : ["김다미"]
+    },
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e8/190626_%EB%B0%95%EC%84%9C%EC%A4%80_%281%29.jpg",
+        "answer" : ["박서준"]
+    },
+    {
+        "img" : "https://post-phinf.pstatic.net/MjAyMDAxMjBfNTAg/MDAxNTc5NDk0NjE1Mzg3.Xxo1v5xCB4wNRucv_SC3NQzrreo4seB2xQj5CzW-A4Mg.AXsskVKJ8ntF5S2sh87KtpUUO9ZnLnkiWGWbanB5BFkg.JPEG/gk02r4pj702y9y80357y.jpg?type=w1200",
+        "answer" : ["괴물쥐","장지환"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/YGgA0PK-lv1EN-m3nmzYDWBVPtlzGkQtPOCPazbSHd_5nLqlSe3V62jHEmBH3XO-KxDAX7fS6ZNeGZWPwPZsOrlo-Vst_dLM4oZhOYHUsRYpndHnz2m0AJdaDD8JS7oU4twq1BQ",
+        "answer" : ["과로사","전재환"]
+    },
+    {
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLG37Z-lV0UPSbGowNWc_6eqr-XLVThw03pw&usqp=CAU",
+        "answer" : ["랄로","김찬호"]
+    },
+    {
+        "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2014/07/28/201407281931795779_1.jpg",
+        "answer" : ["박지성"]
+    },
+    {
+        "img" : "https://img.kr.news.samsung.com/kr/wp-content/uploads/2010/03/cha_1.jpg",
+        "answer" : ["차범근"]
+    },
+    {
+        "img" : "https://i.ytimg.com/vi/kMMtYv6H96I/maxresdefault.jpg",
+        "answer" : ["차두리"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/202006/22/d7c0391c-e565-41cd-9272-c2ae9bd5625d.jpg",
+        "answer" : ["안정환"]
+    },
+    {
+        "img" : "http://monthly.chosun.com/up_fd/Mdaily/2019-10/bimg_thumb/%EB%AC%B8%EC%9E%AC%EC%9D%B8.jpg",
+        "answer" : ["문재인"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/202101/01.24917186.1.jpg",
+        "answer" : ["안철수"]
+    },
+    {
+        "img" : "https://image.newsis.com/2020/07/29/NISI20200729_0000571837_web.jpg?rnd=20200729085707",
+        "answer" : ["전미도"]
+    },
+    {
+        "img" : "https://pbs.twimg.com/profile_images/1402904799901716480/84qpBumQ_400x400.jpg",
+        "answer" : ["김대명"]
+    },
+    {
+        "img" : "http://file2.nocutnews.co.kr/newsroom/image/2020/11/17/20201117131109346877_0_800_533.jpg",
+        "answer" : ["사유리"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/1kKa9/btqCtW8QKU7/etSXaQVzNbMpgtTKaVToK0/img.png",
+        "answer" : ["오킹"]
+    },
+    {
+        "img" : "https://img0.yna.co.kr/etc/inner/KR/2020/05/20/AKR20200520120400005_01_i_P2.jpg",
+        "answer" : ["장성규"]
+    },
+    {
+        "img" : "https://img1.yna.co.kr/etc/inner/KR/2019/05/07/AKR20190507087800005_02_i_P2.jpg",
+        "answer" : ["규현"]
+    },
+    {
+        "img" : "http://www.beffreport.com/news/photo/201903/57752_28834_3254.jpg",
+        "answer" : ["민호"]
+    },
+    {
+        "img" : "https://image.news1.kr/system/photos/2020/10/12/4422815/article.jpg/dims/optimize",
+        "answer" : ["임영웅"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/202010/BF.23033296.1.jpg",
+        "answer" : ["영탁"]
+    },
+    {
+        "img" : "http://ojsfile.ohmynews.com/STD_IMG_FILE/2020/1020/IE002707312_STD.jpg",
+        "answer" : ["이찬원"]
+    },
+    {
+        "img" : "https://img0.yna.co.kr/etc/inner/KR/2020/04/28/AKR20200428068100005_01_i_P2.jpg",
+        "answer" : ["정동원"]
+    },
+    {
+        "img" : "https://mblogthumb-phinf.pstatic.net/MjAyMTA1MDVfMTEy/MDAxNjIwMjA4MjY5NTc4.8tLnEiRNTbPvlMHyWg49vCt9ZT7fPP6y0Ldx3Smnayog.aLqiosS_ooeGDJqRjWnTGtK1f3Jlh6yktv29FtDW8NAg.JPEG.begin22again/20210504_230926.jpg?type=w2",
+        "answer" : ["윈터"]
+    },
+    {
+        "img" : "http://www.topstarnews.net/news/photo/201906/633338_328944_2024.jpg",
+        "answer" : ["권정열","10cm"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/201903/03.13618287.1.jpg",
+        "answer" : ["장범준"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/201904/BF.19330048.1.jpg",
+        "answer" : ["로이킴"]
+    },
+    {
+        "img" : "http://ohfun.net/contents/article/images/2018/0727/1532677322780592.jpg",
+        "answer" : ["로이조"]
     }
-    
 ]
