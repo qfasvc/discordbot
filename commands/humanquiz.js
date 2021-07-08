@@ -4,7 +4,7 @@ var start = false;
 
 module.exports = function (message, quiz) {
     const item = quiz[Math.floor(Math.random() * quiz.length)];
-    const limit = 20; //제한시간 
+    const limit = 15; //제한시간 
     const filter = (response) => {
       return item.answer.some((answer) => answer === response.content);
     }
