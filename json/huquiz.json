@@ -245,7 +245,7 @@
     },
     {
         "img" : "https://post-phinf.pstatic.net/MjAyMDAxMjBfNTAg/MDAxNTc5NDk0NjE1Mzg3.Xxo1v5xCB4wNRucv_SC3NQzrreo4seB2xQj5CzW-A4Mg.AXsskVKJ8ntF5S2sh87KtpUUO9ZnLnkiWGWbanB5BFkg.JPEG/gk02r4pj702y9y80357y.jpg?type=w1200",
-        "answer" : ["괴물쥐","장지환"]
+        "answer" : ["괴물쥐","장지환","전진욱"]
     },
     {
         "img" : "https://lh3.googleusercontent.com/proxy/YGgA0PK-lv1EN-m3nmzYDWBVPtlzGkQtPOCPazbSHd_5nLqlSe3V62jHEmBH3XO-KxDAX7fS6ZNeGZWPwPZsOrlo-Vst_dLM4oZhOYHUsRYpndHnz2m0AJdaDD8JS7oU4twq1BQ",
@@ -590,5 +590,61 @@
     {
         "img" : "http://www.topstarnews.net/news/photo/201910/684611_393650_1548.jpg",
         "answer" : ["장원영"]
+    },
+    {
+        "img" : "http://www.sisaweek.com/news/photo/202006/134414_124094_1232.jpg",
+        "answer" : ["이승기"]
+    },
+    {
+        "img" : "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202101/11/starnews/20210111165547373vouy.jpg",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://rulemaker.s3.amazonaws.com/images/thumb/d/d4/5ef7d7f287ce9.jpg/300px-5ef7d7f287ce9.jpg",
+        "answer" : ["유희열"]
+    },
+    {
+        "img" : "https://spnimage.edaily.co.kr/images/photo/files/NP/S/2019/07/PS19071900096.jpg",
+        "answer" : ["임창정"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/201911/BF.21014258.1.jpg",
+        "answer" : ["이병헌"]
+    },
+    {
+        "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2019/05/30/201905300931089892_1.jpg",
+        "answer" : ["싸이","PSY"]
+    },
+    {
+        "img" : "https://images.chosun.com/resizer/G865ZG7TSN7R0op7Se8QbhyCUiw=/606x519/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUATUH6CVRAC3E2K2YJ2HDR2I4.PNG",
+        "answer" : ["허경환"]
+    },
+    {
+        "img" : "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCYDK3UNZGTE5X4TSAPKVOBW7I.jpg",
+        "answer" : ["이수","이 수"]
+    },
+    {
+        "img" : "https://newsimg.sedaily.com/2018/10/25/1S61THKGLX_1.jpg",
+        "answer" : ["린"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/201907/29/htm_201907299509132165.jpg",
+        "answer" : ["강민경"]
+    },
+    {
+        "img" : "https://pbs.twimg.com/profile_images/1245751997757886464/hBRB4OVc_400x400.jpg",
+        "answer" : ["이해리"]
+    },
+    {
+        "img" : "https://newsimg.sedaily.com/2019/12/11/1VS17SIFNQ_1.jpg",
+        "answer" : ["크러쉬"]
+    },
+    {
+        "img" : "https://img3.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202104/23/spotvnews/20210423140633999mwsq.jpg",
+        "answer" : ["조이"]
+    },
+    {
+        "img" : "http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2019/02/07/9d355660-c4e8-4f1f-b50f-63a22330dc85.jpg",
+        "answer" : ["슬기"]
     }
 ]
