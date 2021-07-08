@@ -23,7 +23,7 @@ module.exports = function (message, quiz) {
                 start = false;
               })
               .catch((err) => {
-                message.channel.send("제한시간이 지났습니다");
+                message.channel.send(`제한시간이 지났습니다 정답은 '${item.answer}' 였습니다`);
                 start = false;
               });
           });
