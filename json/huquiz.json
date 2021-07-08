@@ -121,7 +121,7 @@
     },
     {
         "img" : "https://post-phinf.pstatic.net/MjAyMDEwMjdfMTI1/MDAxNjAzNzgxNjU1MTU1.83f91AAlRcnWwldW0IbN25q12NLEtoyTQ_Nr4bq4WXAg.8j4iRL_wPGaMDgJkQpARjhh6WjzIzVRtfsqVqNe2Mq8g.JPEG/121609901_191204092517872_7257056504530801338_n.jpg?type=w1200",
-        "answer" : ["이수현"]
+        "answer" : ["이수현","수현"]
     },
     {
         "img" : "https://upload.wikimedia.org/wikipedia/ko/d/d4/%ED%8E%AD%EC%88%98.jpg",
@@ -174,6 +174,18 @@
     {
         "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/280px-Joe_Biden_presidential_portrait.jpg",
         "answer" : ["조 바이든","바이든","Joseph Robinette Biden Jr.","Biden"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/cYoXBb/btqIMWuY1qW/fSwZ4nWQ57n0cQFEXUxdd0/img.jpg",
+        "answer" : ["지수"]
+    },
+    {
+        "img" : "https://interis.co.kr/data/file/humor/15820182092301.jpg",
+        "answer" : ["손흥민"]
+    },
+    {
+        "img" : "https://images.chosun.com/resizer/WFPcozKY65Lijy-CxDzlHU-X1f8=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74DEYX6SRW6N4X2BZ6P52NL4O4.jpg",
+        "answer" : ["표예진"]
     }
     
 ]
