@@ -9,6 +9,13 @@ const huquiz = require('./json/huquiz');
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
+  client.user.setPresence({
+      activity: {
+          name: `!인물퀴즈`,
+          type: 'PLAYING'
+      },
+      status: 'online'
+  });
 });
 
 const convertEmoji = (who) => {
