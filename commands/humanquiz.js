@@ -3,9 +3,14 @@ const { MessageEmbed } = require('discord.js');
 var start = false;
 
 module.exports = function (message, quiz) {
+    var skip = false;
     const item = quiz[Math.floor(Math.random() * quiz.length)];
     const limit = 15; //제한시간 
     const filter = (response) => {
+      if (response.content == '몰라') {
+        skip = true;
+        return true;
+      };
       return item.answer.some((answer) => answer === response.content);
     }
 
@@ -19,7 +24,11 @@ module.exports = function (message, quiz) {
           .then(() => {
             message.channel.awaitMessages(filter, { max: 1, time: limit * 1000 })
               .then((collected) => {
-                message.channel.send(`${collected.first().author} 👈정답!`);
+                if (skip) {
+                  message.channel.send(`정답은 '${item.answer}' 였습니다`);
+                } else {
+                  message.channel.send(`${collected.first().author} 👈정답!`);
+                }
                 start = false;
               })
               .catch((err) => {
