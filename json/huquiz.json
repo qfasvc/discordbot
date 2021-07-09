@@ -324,7 +324,7 @@
         "answer" : ["정동원"]
     },
     {
-        "img" : "https://mblogthumb-phinf.pstatic.net/MjAyMTA1MDVfMTEy/MDAxNjIwMjA4MjY5NTc4.8tLnEiRNTbPvlMHyWg49vCt9ZT7fPP6y0Ldx3Smnayog.aLqiosS_ooeGDJqRjWnTGtK1f3Jlh6yktv29FtDW8NAg.JPEG.begin22again/20210504_230926.jpg?type=w2",
+        "img" : "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2021/05/28/202105281644223718300_20210528164443_01.jpg",
         "answer" : ["윈터"]
     },
     {
@@ -464,7 +464,7 @@
         "answer" : ["시은"]
     },
     {
-        "img" : "https://img.hankyung.com/photo/202011/eeae6fd7faad4d35f88a6db110bb3de9.jpg",
+        "img" : "https://photo.newsen.com/mphoto/2020/11/27/202011271505145510_1.jpg",
         "answer" : ["아이사"]
     },
     {
@@ -532,7 +532,7 @@
         "answer" : ["악어","진동민"]
     },
     {
-        "img" : "https://lh3.googleusercontent.com/proxy/v94nAXAhdshmAszEm1cWDGhVWs3h17u_P2B6fOdWl-8IYIX_82FveKPpFtKaunBh8ODi2kWw38iQbhmb5psBZ4yTsuPaLzqedHuca_P834Rf5qHri4DhbKehfUpK-ANo",
+        "img" : "https://lh3.googleusercontent.com/proxy/T4BGYHzib2E7L2KdAZsmjGtXI1DkxuTTVvngjf6SwPViJp5tIO6Pdkr5o9SX5kYkyvJjSdbAwOuWtyj-KMsmnjm_vnf_W7dS9nfije2ERen3Zhso-X0GVkivdr_uUODY",
         "answer" : ["이명박","MB"]
     },
     {
@@ -648,7 +648,7 @@
         "answer" : ["슬기"]
     },
     {
-        "img" : "https://lh3.googleusercontent.com/proxy/lvE9ZXw8wdLU5TCPehh8bMWLjQI4ux09gYUvTfR-7gUjctlbPrYsXVdEA4WH7xXnyNJ1nFXp2426nUnPY1D4MrNrQj5nN6x8X3h0GcH-d31xJVamyzHzl7uG52C93HWf",
+        "img" : "https://image.ajunews.com/content/image/2017/04/24/20170424155432622128.jpg",
         "answer" : ["혁오"]
     },
     {
@@ -720,7 +720,7 @@
         "answer" : ["지효"]
     },
     {
-        "img" : "https://img.hankyung.com/photo/202001/03.20292655.1.jpg",
+        "img" : "https://i.pinimg.com/originals/1a/2a/c0/1a2ac08110cdfb0782f4375b96494624.jpg",
         "answer" : ["나연"]
     },
     {
@@ -886,5 +886,93 @@
     {
         "img" : "https://t1.daumcdn.net/cfile/tistory/99A433355ED093391F",
         "answer" : ["정국"]
+    },
+    {
+        "img" : "http://menu.mtn.co.kr/upload/article/2020/01/10/2020011016405884336_00_628.jpg",
+        "answer" : ["이상준"]
+    },
+    {
+        "img" : "http://img.khan.co.kr/newsmaker/1106/20141217_76.jpg",
+        "answer" : ["이국주"]
+    },
+    {
+        "img" : "https://cdn.joongboo.com/news/photo/201304/850093_850119_562.jpg",
+        "answer" : ["오나미"]
+    },
+    {
+        "img" : "https://mblogthumb-phinf.pstatic.net/MjAyMDA0MzBfNzQg/MDAxNTg4MjM5ODE5NzIz.3_t4Lkyr6dwZv8JMLyrozWXcmpV9_G41xbhBgkSbItIg.udbRBrypiL8z-B2rA_53CVaRSTFJpigscAILd_mqcWog.JPEG.leedeoku/%EC%97%AC%EC%9E%90%EC%95%84%EC%9D%B4%EB%93%A4_%EC%A0%84%EC%86%8C%EC%97%B0_%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85_2.JPG?type=w800",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/CBUVh_ud7oFH-e9kXGc_lrm6rVLYNEgQ0ePK9-I4CRLqRYYrfySWDqxlONbHUZO-tun79jK4HUvMNWjexGxzATp5VzAi8-Wkl-wXBHJEHRnL2AgLNxKsNiUUhYqbTak",
+        "answer" : ["스윙스"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2020/10/image_readtop_2020_1084036_16033440224401734.jpeg",
+        "answer" : ["비와이"]
+    },
+    {
+        "img" : "https://mblogthumb-phinf.pstatic.net/MjAyMDAzMDZfMTE4/MDAxNTgzNDgwMTk4NzY4.kGq6yP0HGl9qBVLxEe8_Ks0LkH0-U6mYQ0mVwX6mqwMg.4M1WqGfhtoa_DRi8C7XvL0nJ3mOSrWAldMqSOFB5dkog.PNG.ssadea2/%ED%99%A9%EC%A0%9C%EC%84%B1_1_p.png?type=w800",
+        "answer" : ["황제성"]
+    },
+    {
+        "img" : "http://img.segye.com/content/image/2020/06/09/20200609514346.JPG",
+        "answer" : ["이특"]
+    },
+    {
+        "img" : "https://img.tvreportcdn.de/cms-content/uploads/2020/01/30/c8db5278-814e-41cd-b89f-e7be0aa22688.jpg",
+        "answer" : ["예성"]
+    },
+    {
+        "img" : "https://cdnweb01.wikitree.co.kr/webdata/editor/202101/30/img_20210130150440_ea468c05.webp",
+        "answer" : ["신동"]
+    },
+    {
+        "img" : "https://cdn.gukjenews.com/news/photo/202008/2059021_2056174_173.jpg",
+        "answer" : ["은혁"]
+    },
+    {
+        "img" : "https://www.queen.co.kr/news/photo/201410/197932_4440_4138.png",
+        "answer" : ["시원"]
+    },
+    {
+        "img" : "https://www.breaknews.com/imgdata/breaknews_com/201711/2017110635339053.jpg",
+        "answer" : ["동해"]
+    },
+    {
+        "img" : "http://www.topstarnews.net/news/photo/202103/865208_598483_4123.jpg",
+        "answer" : ["려욱"]
+    },
+    {
+        "img" : "https://img.sbs.co.kr/newimg/news/20160613/200950987_500.jpg",
+        "answer" : ["김민종"]
+    },
+    {
+        "img" : "https://newsimg.sedaily.com/2019/06/14/1VKEY29J6I_1.jpg",
+        "answer" : ["강타"]
+    },
+    {
+        "img" : "https://thumb.pann.com/tc_480/http://fimg5.pann.com/new/download.jsp?FileID=58152511",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "http://file3.instiz.net/data/cached_img/upload/2021/01/11/16/7293fbd77fc7ca587ef3652e7f9e3832.jpg",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2021/05/21/202105211111260410_1.jpg",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://www.thedrive.co.kr/news/data/20210705/p1065600462021690_787_thum.jpg",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://i.pinimg.com/474x/6e/8c/ed/6e8cedfee33eb8e40a4e6bf5fb3b409b.jpg",
+        "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/202107/05/74b547b3-28dc-4161-b43c-72e855fc4291.jpg",
+        "answer" : ["전소연","소연"]
     }
 ]
