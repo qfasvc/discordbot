@@ -184,7 +184,7 @@
         "answer" : ["손흥민"]
     },
     {
-        "img" : "https://images.chosun.com/resizer/WFPcozKY65Lijy-CxDzlHU-X1f8=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74DEYX6SRW6N4X2BZ6P52NL4O4.jpg",
+        "img" : "https://img5.yna.co.kr/photo/yna/YH/2017/06/19/PYH2017061922440001300_P4.jpg",
         "answer" : ["표예진"]
     },
     {
@@ -305,7 +305,7 @@
     },
     {
         "img" : "http://www.beffreport.com/news/photo/201903/57752_28834_3254.jpg",
-        "answer" : ["민호"]
+        "answer" : ["민호","최민호"]
     },
     {
         "img" : "https://image.news1.kr/system/photos/2020/10/12/4422815/article.jpg/dims/optimize",
@@ -646,5 +646,245 @@
     {
         "img" : "http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2019/02/07/9d355660-c4e8-4f1f-b50f-63a22330dc85.jpg",
         "answer" : ["슬기"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/lvE9ZXw8wdLU5TCPehh8bMWLjQI4ux09gYUvTfR-7gUjctlbPrYsXVdEA4WH7xXnyNJ1nFXp2426nUnPY1D4MrNrQj5nN6x8X3h0GcH-d31xJVamyzHzl7uG52C93HWf",
+        "answer" : ["혁오"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2019/10/image_readtop_2019_821553_15707760583933235.jpg",
+        "answer" : ["지성"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/dG0iGw/btqEHxMFG2X/FlGawnKG1y4KJa1Ks0Wdn1/img.png",
+        "answer" : ["박민영"]
+    },
+    {
+        "img" : "http://pds.joins.com/news/component/htmlphoto_mmdata/201905/23/333fc640-f8af-4db1-ac2c-0f849159ab6b.jpg",
+        "answer" : ["이민호"]
+    },
+    {
+        "img" : "http://www.nbnnews.co.kr/news/photo/201903/245329_298210_28.jpg",
+        "answer" : ["문채원"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/O9gug/btqF5zbp3es/8pPPk5Aumdk1rnIkRG8ipK/img.jpg",
+        "answer" : ["유연석"]
+    },
+    {
+        "img" : "https://img0.yna.co.kr/photo/yna/YH/2017/10/16/PYH2017101615230001300_P4.jpg",
+        "answer" : ["서은광"]
+    },
+    {
+        "img" : "https://thumb.mt.co.kr/06/2020/07/2020072910488240091_1.jpg/dims/optimize/",
+        "answer" : ["이창섭"]
+    },
+    {
+        "img" : "https://i.ytimg.com/vi/9J67amvesFg/maxresdefault.jpg",
+        "answer" : ["아이언맨","토니스타크","아이언 맨","토니 스타크"]
+    },
+    {
+        "img" : "https://img7.yna.co.kr/etc/inner/KR/2018/07/23/AKR20180723119500005_01_i_P2.jpg",
+        "answer" : ["이동욱"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/SsnqQ4UhYi66YQ411cdzyl1Rl66EOP_qyeblZXvUWrkFsn4Nu7Lu0mfWckphEikOY8OvOVLbMgcsMX_qgCY4-lCwTTIlHWd18HVapUgkMUWSJRm-BeTtxwYj",
+        "answer" : ["웬디"]
+    },
+    {
+        "img" : "https://images.chosun.com/resizer/ssb2D2SjBINmNF_0r4FBaBF8XUU=/616x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUTYCLL3EEMTOZVDMXFXRL7CEQ.jpg",
+        "answer" : ["이휘재"]
+    },
+    {
+        "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2018/06/03/201806031785721003_1.jpg",
+        "answer" : ["성동일"]
+    },
+    {
+        "img" : "https://t1.daumcdn.net/news/202004/29/poctan/20200429090233706dbml.jpg",
+        "answer" : ["김태희"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/201711/23/htm_2017112314322768878.jpg",
+        "answer" : ["장나라"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/201504/14/htm_20150414152842401.jpg",
+        "answer" : ["장동민"]
+    },
+    {
+        "img" : "https://spnimage.edaily.co.kr/images/Photo/files/NP/S/2021/01/PS21010500074.jpg",
+        "answer" : ["유상무"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/202001/BF.21370791.1.jpg",
+        "answer" : ["지효"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/202001/03.20292655.1.jpg",
+        "answer" : ["나연"]
+    },
+    {
+        "img" : "https://images.chosun.com/resizer/e7cotQOIbiUKg1yrCtWkAbuadDs=/449x644/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46XYN7FXX42I5QXPFL4BOBZNRE.jpg",
+        "answer" : ["사나"]
+    },
+    {
+        "img" : "https://img.huffingtonpost.com/asset/5f8ab0c2240000fe00b0277a.jpeg?cache=sZ2MsyP71e&ops=crop_0_0_2000_1680,scalefit_630_noupscale",
+        "answer" : ["정연"]
+    },
+    {
+        "img" : "https://cdn.ftoday.co.kr/news/photo/201803/86020.jpg",
+        "answer" : ["미나"]
+    },
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/3/3a/171109_%EC%97%A0%EC%B9%B4%EB%AF%B8%EB%8B%88%ED%8C%AC%EB%AF%B8%ED%8C%85_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_%EC%B1%84%EC%98%81_%283%29.jpg",
+        "answer" : ["채영"]
+    },
+    {
+        "img" : "https://image.news1.kr/system/photos/2020/6/10/4234876/article.jpg/dims/optimize",
+        "answer" : ["쯔위"]
+    },
+    {
+        "img" : "http://topclass.chosun.com/editor/cheditor_5/attach/20200404161438_fgntueof.jpg",
+        "answer" : ["나태주"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/201510/BF.10655913.1.jpg",
+        "answer" : ["자이언티","자이언 티"]
+    },
+    {
+        "img" : "http://file2.nocutnews.co.kr/newsroom/image/2015/04/06/20150406162259379256.jpg",
+        "answer" : ["이문세"]
+    },
+    {
+        "img" : "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/YTEME6VYFKYAOMZLUHHFBPCVLE.jpg",
+        "answer" : ["이영표"]
+    },
+    {
+        "img" : "https://img.huffingtonpost.com/asset/5be23f9b2600005801840522.jpeg?cache=9COw7roa4J&ops=scalefit_630_noupscale",
+        "answer" : ["헨리"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/201404/01/htm_20140401170554413.jpg",
+        "answer" : ["이승만"]
+    },
+    {
+        "img" : "https://news.nateimg.co.kr/orgImg/aa/2021/01/28/20210127_1453402.jpg",
+        "answer" : ["이대호"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/201911/05/9b249f9d-b742-422f-92f2-c0ab32ba41a3.jpg",
+        "answer" : ["류현진"]
+    },
+    {
+        "img" : "https://t1.daumcdn.net/cfile/tistory/9961D0385A76E57723",
+        "answer" : ["조세호"]
+    },
+    {
+        "img" : "https://dimg.donga.com/wps/NEWS/IMAGE/2019/11/22/98485620.2.png",
+        "answer" : ["박명수"]
+    },
+    {
+        "img" : "https://cdnweb01.wikitree.co.kr/webdata/editor/202101/05/img_20210105170705_0eb840d6.webp",
+        "answer" : ["정준하"]
+    },
+    {
+        "img" : "http://www.ctimes.co.kr/news/photo/201910/2264_2707_2501.jpg",
+        "answer" : ["정형돈"]
+    },
+    {
+        "img" : "https://dimg.donga.com/wps/NEWS/IMAGE/2014/04/24/63006106.5.jpg",
+        "answer" : ["길"]
+    },
+    {
+        "img" : "http://www.newscj.com/news/photo/202101/newscj_%EC%B2%9C%EC%A7%80%EC%9D%BC%EB%B3%B4_2021_1_25_18277_866640.jpg",
+        "answer" : ["노홍철"]
+    },
+    {
+        "img" : "https://spnimage.edaily.co.kr/images/Photo/files/NP/S/2019/11/PS19111900030.jpg",
+        "answer" : ["하동훈","하하"]
+    },
+    {
+        "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2016/12/25/201612251176280874_1.jpg",
+        "answer" : ["김종민"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/201905/01.19690487.1.jpg",
+        "answer" : ["김건모"]
+    },
+    {
+        "img" : "https://pbs.twimg.com/profile_images/1325324378117083138/l9eFj1Wz_400x400.jpg",
+        "answer" : ["서유리"]
+    },
+    {
+        "img" : "https://img.hankyung.com/photo/202010/BF.23961226.1.jpg",
+        "answer" : ["이근","이 근"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/202008/11/ffc5dc6b-0857-4cfc-81cd-9d807d19311a.jpg",
+        "answer" : ["민니"]
+    },
+    {
+        "img" : "http://image.yes24.com/images/chyes24/e/3/b/8/e3b8ff522905d2c4806b6399b7b3e279.JPG",
+        "answer" : ["케이윌"]
+    },
+    {
+        "img" : "https://nkinfo.unikorea.go.kr/nkp/attach/person_photo/000000022195.jpg",
+        "answer" : ["김정은"]
+    },
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kim_Jong_il_Portrait-2.jpg/200px-Kim_Jong_il_Portrait-2.jpg",
+        "answer" : ["김정일"]
+    },
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kim_Il_Sung_Portrait-3.jpg/200px-Kim_Il_Sung_Portrait-3.jpg",
+        "answer" : ["김일성"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/2SO4Nh1OruhZXtYDeDotRZBDxV-i0WS5RuSrv2scHuJkJ8jbBpXMWIKJC1ahag4tzNWOESjbkXYl-SSK49xTDdnxIJpaqXEjNdLOgZH0dZ_HD1eq0pQaszdY8bsXkpCS",
+        "answer" : ["김구","김 구"]
+    },
+    {
+        "img" : "http://img.tf.co.kr/article/home/2019/06/27/20196981561606715.jpg",
+        "answer" : ["송혜교"]
+    },
+    {
+        "img" : "http://file2.nocutnews.co.kr/newsroom/image/2020/01/03/20200103032847364968_0_800_533.jpg",
+        "answer" : ["최민식"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2020/11/image_readtop_2020_1182129_16055949284435174.jpg",
+        "answer" : ["한석규"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/bDfAQw/btqD2bD1qbY/KekKgYpWSAZCtsRjQC0kS0/img.jpg",
+        "answer" : ["강동원"]
+    },
+    {
+        "img" : "https://thumb.mtstarnews.com/06/2021/04/2021042808261176997_1.jpg/dims/optimize",
+        "answer" : ["진","김석진"]
+    },
+    {
+        "img" : "https://img.wkorea.com/w/2021/03/style_604adf1b60308.jpg",
+        "answer" : ["슈가","SUGA","민윤기"]
+    },
+    {
+        "img" : "https://spnimage.edaily.co.kr/images/Photo/files/NP/S/2020/08/PS20081800090.jpg",
+        "answer" : ["제이홉","제이 홉"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2021/05/image_readtop_2021_506724_16220047634658726.jpg",
+        "answer" : ["RM","rm","Rm","랩몬스터","랩 몬스터","알엠"]
+    },
+    {
+        "img" : "http://www.newsworks.co.kr/news/photo/201909/390710_286951_5954.jpg",
+        "answer" : ["지민","박지민"]
+    },
+    {
+        "img" : "http://www.polinews.co.kr/data/photos/20181251/art_15451657681741_a3c193.jpg",
+        "answer" : ["뷔"]
+    },
+    {
+        "img" : "https://t1.daumcdn.net/cfile/tistory/99A433355ED093391F",
+        "answer" : ["정국"]
     }
 ]
