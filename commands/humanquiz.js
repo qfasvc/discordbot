@@ -17,7 +17,7 @@ module.exports = function (message, quiz) {
     const embed = new MessageEmbed()
         .setTitle(`이 사람은 누구 일까요? (제한시간 ${limit}초)`)
         .setImage((item.img) ? item.img : '')
-        .setColor('#0600EF');
+        .setColor('#FFF500');
     if (!start) {
         start = true;
         message.channel.send(embed)
