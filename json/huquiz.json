@@ -974,5 +974,9 @@
     {
         "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/202107/05/74b547b3-28dc-4161-b43c-72e855fc4291.jpg",
         "answer" : ["전소연","소연"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/htmlphoto_mmdata/202103/15/dfdbbfa7-64d1-46b9-908c-ff417ffcdfc8.jpg",
+        "answer" : ["주호민"]
     }
 ]
