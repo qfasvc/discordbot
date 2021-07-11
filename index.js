@@ -37,7 +37,7 @@ client.on('message', message => {
 
 
   if (message.content === 'ping') {
-    msg.reply('Pong! `'+ Math.floor(client.uptime)+'ms`');
+    messsage.reply('Pong! `'+ Math.floor(client.uptime)+'ms`');
   }
 
   if (message.content === "!퀴즈") {
