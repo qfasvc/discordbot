@@ -140,6 +140,10 @@ client.on('message', message => {
   if (message.content === '무야호') {
     message.channel.send('무야호');
   }
+  
+  if (message.content === 'ping') {
+    message.channel.send('pong' + ' ms');
+  }
 
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
