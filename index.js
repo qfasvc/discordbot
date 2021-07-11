@@ -36,10 +36,6 @@ client.on('message', message => {
   if (message.author.id === client.user.id) return; // 로그인한 봇으로 채팅 입력 방지
 
 
-  if (message.content === 'ping') {
-    messsage.channel.send ('Pong! `'+ Math.floor(client.uptime) + 'ms`');
-  }
-
   if (message.content === "!퀴즈") {
     require('./commands/quiz')(message, quiz);
   }
