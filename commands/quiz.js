@@ -17,7 +17,7 @@ module.exports = function (message, quiz) {
         message.channel.awaitMessages(filter, { max: 1, time: limit * 1000 })
           .then((collected) => {
             message.channel.send(`${collected.first().author} 👈정답!`)
-          })
+            })
           .catch((err) => {
             message.channel.send("제한시간이 지났습니다")
           });

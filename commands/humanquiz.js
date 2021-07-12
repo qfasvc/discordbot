@@ -1,4 +1,4 @@
-const { MessageEmbed } = require('discord.js');
+const { MessageEmbed, User } = require('discord.js');
 
 var start = false;
 
