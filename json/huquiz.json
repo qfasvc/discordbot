@@ -1074,5 +1074,37 @@
     {
         "img" : "https://i1.sndcdn.com/artworks-oPO34OKvoXxDMthb-KKGjoQ-t500x500.jpg",
         "answer" : ["김채원"]
+    },
+    {
+        "img" : "https://image.news1.kr/system/photos/2018/5/9/3102399/article.jpg/dims/optimize",
+        "answer" : ["권해효"]
+    },
+    {
+        "img" : "https://img1.daumcdn.net/thumb/R720x0/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fliveboard%2Fcineplay%2F6c3ab95c442645e9b9ed7f2b03ca83ae.jpg",
+        "answer" : ["정보석"]
+    },
+    {
+        "img" : "https://static.inven.co.kr/column/2020/08/13/news/i13239354239.jpg",
+        "answer" : ["박재혁","ruler","룰러","Ruler","RULER"]
+    },
+    {
+        "img" : "https://img9.yna.co.kr/mpic/YH/2018/03/01/MYH20180301000500038.jpg",
+        "answer" : ["윤봉길","윤봉길 의사","윤봉길 의사님"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/mTyL7v1g2Jm6YXd3n7Dz-Z7WcY_Im0H6KFMX7vyVrpoD_FgDdxeoMXbbNZNuh2dizBhqfZ7JwsiF4mPJrtLG3620G09mGHj1y5PXoGAR8QySy3gvNs-4NiJP2bTi58aMJ5POmY4dI1saQywgg29zHhudmE_8iYaK2jNB6qg8eIU_QWVcg1opAYOtfAakmswtljzR_EE47EEk1VmAQz7UkFSaq6dy912LzMmkkz_M05cVPx5as48P0PO5VDQKKpZSEze2gae3GdOk",
+        "answer" : ["유관순","유관순 열사","유관순 열사님"]
+    },
+    {
+        "img" : "https://image.edaily.co.kr/images/Photo/files/NP/S/2020/05/PS20051800642.jpg",
+        "answer" : ["이봉창","이봉창 의사","이봉창 의사님"]
+    },
+    {
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPCDNJO6mCRSDOUnm43eiJD-l5-Sk2HNOqsPoOLTMOZAqP0Mr1YAHRAxWANM6N7BgoCI&usqp=CAU",
+        "answer" : ["안중근","안중근 의사","안중근 의사님"]
+    },
+    {
+        "img" : "https://newsimg.hankookilbo.com/cms/articlerelease/2018/10/14/201810140952315214_7.jpg",
+        "answer" : ["안창호","도산 안창호"]
     }
 ]
