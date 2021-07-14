@@ -142,7 +142,7 @@ client.on('message', message => {
   }  
   
   if (message.content === '!서현욱') {
-    const embed = new Discord.MessageEmbed
+    const embed = new Discord.MessageEmbed()
     .setAuthor("도마뱀")
     .setImage("https://mb.ntdtv.kr/assets/uploads/2020/04/bf4e459305d5f99729bda2d9590ca215.jpg")
   }
