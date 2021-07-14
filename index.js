@@ -144,7 +144,7 @@ client.on('message', message => {
   if (message.content === '!서현욱') {
     const embed = new Discord.MessageEmbed
     .setAuthor("도마뱀")
-    .setImage("https://lh3.googleusercontent.com/proxy/u3BXPMprTQQB9PFVSSc2nuihlsrkaiukJ_cbF_wF2FKUoFesJ1SlmYeYOC0JEpuxM911QxHkhiSVP99o2kXUMPGXm3rXlPBWP9rXA_uIZrJ_MOHZJtYGwg")
+    .setImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiVH__yBNnpChQE0vqt9xWForwDNEDeWSJ6wx3Je1SY4-LTf0FSs7dSmX3kHo_SjPS-74&usqp=CAU")
   }
 
   // 입력한 값이 가위 또는 바위 또는 보일때
