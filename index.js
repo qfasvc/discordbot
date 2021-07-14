@@ -92,13 +92,14 @@ client.on('message', message => {
           id: id, //아이디는 그대로
           name: name, // 닉네임 그대로
           date: data, // 일자는 오늘일자(date: 오늘일자)
-          money: user.money + howMuch, // 돈을 만원을 지급해야함s
+          money: user.money + howMuch, // 돈을 만원을 지급해야함
+          point: 0,
         }
       }
     }
     else {// 유저정보가 없다면(새로운 유저)
       message.reply(`${name}!! 시작하는걸 환영해! ${howMuch}원이 지급됐어!`);
-      saveUser = { id, name, data, money: howMuch }; // 돈은 기존 돈에 추가하는게 아니라 무조건 10000원
+      saveUser = { id, name, data, money: howMuch, point }; // 돈은 기존 돈에 추가하는게 아니라 무조건 10000원
     }
     //파일에 saveUser를 저장해야함 
     fs.writeFileSync(filePath, JSON.stringify(saveUser)); // 새로운 정보를 파일에 쓰기
@@ -106,6 +107,9 @@ client.on('message', message => {
 
   if (message.content === "내 잔액") {
     user.id ? message.reply(`${name}의 현재 잔액은 ${user.money}원임`) : message.reply(`등록되지 않는 유저야 돈 줘 라고 입력해봐`);
+  }
+  if (message.content === '!내 점수') {
+    user.point ? message.reply(`${name}의 현재 점수는 ${user.point}점 입니다`) : message.reply(`등록되지 않은 유저야 !인물퀴즈 로 인물퀴즈를 한뒤 다시 입력해봐`);
   }
 
   if (message.content === "제작자") {
@@ -141,12 +145,6 @@ client.on('message', message => {
     message.channel.send('무야호');
   }  
   
-  if (message.content === '!서현욱') {
-    const embed = new Discord.MessageEmbed()
-    .setAuthor("도마뱀")
-    .setImage("https://mb.ntdtv.kr/assets/uploads/2020/04/bf4e459305d5f99729bda2d9590ca215.jpg")
-  }
-
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
     const human = message.content; // 사람이 입력한 값을 human이라는 상수에 대입
