@@ -1,3 +1,12 @@
+
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.get('/', (req, res) => res.send('Hello World!'));
+
+app.listen(port, () => console.log(`http://localhost:${port}`));
+
 require('dotenv').config();
 const Discord = require('discord.js');
 const fs = require('fs');
@@ -5,7 +14,6 @@ const client = new Discord.Client();
 const config = require('./config.json');
 const quiz = require("./json/quiz.json");
 const huquiz = require('./json/huquiz');
-
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
