@@ -147,7 +147,7 @@ client.on('message', message => {
     message.channel.send('무야호');
   }   
   
-  if (message.content.match(/다미|유써/g)) {
+  if (message.content.match(/다미|유써|담/g)) {
     message.delete();
     message.reply('ㅈ까 이 새끼야');
   }
