@@ -153,8 +153,13 @@ client.on('message', message => {
   }   
   
   if (message.content === '다미') {
-    message.delete;
+    message.delete();
   }  
+  
+  if (message.content === '유써') {
+    message.delete();
+  }  
+  
   
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
