@@ -47,7 +47,6 @@ client.on('message', message => {
   if (message.content === "!퀴즈") {
     require('./commands/quiz')(message, quiz);
   }
-  
   if (message.content === "!인물퀴즈") {
     require('./commands/humanquiz')(message, huquiz);
   }
@@ -151,6 +150,10 @@ client.on('message', message => {
   }
   if (message.content === '무야호') {
     message.channel.send('무야호');
+  }   
+  
+  if (message.content === '다미') {
+    message.delete;
   }  
   
   // 입력한 값이 가위 또는 바위 또는 보일때
