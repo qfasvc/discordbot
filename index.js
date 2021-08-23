@@ -10,11 +10,11 @@ const huquiz = require('./json/huquiz');
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
   client.user.setPresence({
-      activity: {
-          name: `!인물퀴즈`,
-          type: 'PLAYING'
-      },
-      status: 'online'
+    activity: {
+      name: `!인물퀴즈`,
+      type: 'PLAYING'
+    },
+    status: 'online'
   });
 });
 
@@ -35,6 +35,9 @@ client.on('message', message => {
   if (message.author.bot) return; // 무한방지 코드
   if (message.author.id === client.user.id) return; // 로그인한 봇으로 채팅 입력 방지
 
+  if (message.content.startsWith('!전적')) {
+    require('./commands/opgg.js')('!전적', message);
+  }
 
   if (message.content === "!퀴즈") {
     require('./commands/quiz')(message, quiz);
@@ -144,14 +147,9 @@ client.on('message', message => {
     message.channel.send('무야호');
   }   
   
-  if (message.content === '다미') {
+  if (message.content.match(/다미|유써/g)) {
     message.delete();
-  }  
-  
-  if (message.content === '유써') {
-    message.delete();
-  }  
-  
+  }
   
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
