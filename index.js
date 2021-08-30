@@ -114,33 +114,6 @@ client.on('message', message => {
   if (message.content === '!내 점수') {
     user.point ? message.reply(`${name}의 현재 점수는 ${user.point}점 입니다`) : message.reply(`등록되지 않은 유저야 !인물퀴즈 로 인물퀴즈를 한뒤 다시 입력해봐`);
   }
-
-  if (message.content === "제작자") {
-    const embed = new Discord.MessageEmbed()
-      .setAuthor("전진욱", "https://post-phinf.pstatic.net/MjAyMDEyMjJfNzcg/MDAxNjA4NjA1MTk4MzY3.mgT_b2vtez2b68e7IgfIakukBtrBmgbl42Hn4SrzMk4g.uB0LTnRd6K8c4ZvA_P3Na_iAVt5LDQSzA-MbTTMgXkgg.JPEG/%EC%86%8C%EC%97%B0%ED%95%9C5.jpg?type=w1200")
-      .setTitle("제작자 스팀 주소")
-      .setURL("https://steamcommunity.com/profiles/76561198796623681")
-      .setColor("0X7E00BF")
-      .setDescription("안녕하세요")
-      .setThumbnail("https://post-phinf.pstatic.net/MjAyMDEyMjJfNzcg/MDAxNjA4NjA1MTk4MzY3.mgT_b2vtez2b68e7IgfIakukBtrBmgbl42Hn4SrzMk4g.uB0LTnRd6K8c4ZvA_P3Na_iAVt5LDQSzA-MbTTMgXkgg.JPEG/%EC%86%8C%EC%97%B0%ED%95%9C5.jpg?type=w1200")
-      .addField("취미", "책읽기")
-      .addField("키", "187cm")
-      .addField("몸무게", "비밀")
-      .setImage("https://post-phinf.pstatic.net/MjAyMDEyMjJfMTkg/MDAxNjA4NjA1MTk4NjEw.2J4MnHdJyXHmMwdHJfFlEQ7Ce4AyARCdp-ecTwr-mnEg.Rq5IGwHyusakNWOvtBpM30WAEcdOgkh_ThuEEij2bp0g.JPEG/%EC%86%8C%EC%97%B0%ED%95%9C4.jpg?type=w1200")
-      .setFooter("F1 보세요");
-    message.channel.send(embed);
-  }
-
-  if (message.content === "잠깐 선 좀 넘겠습니다") {
-    const embed = new Discord.MessageEmbed()
-      .setAuthor("잠깐 선 좀 넘겠습니다")
-      .setTitle("구매 링크")
-      .setURL("http://www.yes24.com/Product/Goods/101783289")
-      .setImage("http://image.yes24.com/goods/101783289/XL")
-      .setDescription('[저자: 최원석(최초딩)](https://www.instagram.com/choi_choding)');
-    message.channel.send(embed);
-  }
-
   if (message.content === '무한') {
     message.channel.send('무야호');
   }
