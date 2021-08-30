@@ -147,11 +147,9 @@ client.on('message', message => {
   if (message.content === '무야호') {
     message.channel.send('무야호');
   } 
-   client.on('message', message => {
-      if (message.content === '+ping') {  
-        message.channel.send(`🏓Latency is ${m.createdTimestamp - message.createdTimestamp}ms. API Latency is ${Math.round(client.ws.ping)}ms`);
-      }
-    });
+  if (message.content === '핑') {
+    message.channel.send(`${client.ws.ping}`)
+  }
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
     const human = message.content; // 사람이 입력한 값을 human이라는 상수에 대입
