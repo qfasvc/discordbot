@@ -150,6 +150,9 @@ client.on('message', message => {
   if (message.content === 'ping') {
   message.channel.send (`🏓 pong! ${client.ws.ping}ms`);
   }
+  if (message.content === '핑') {
+    message.channel.send (`🏓 퐁! ${client.ws.ping}ms`);
+    }
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
     const human = message.content; // 사람이 입력한 값을 human이라는 상수에 대입
