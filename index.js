@@ -6,6 +6,7 @@ const client = new Discord.Client();
 const config = require('./config.json');
 const quiz = require("./json/quiz.json");
 const huquiz = require('./json/huquiz');
+const { join } = require('path');
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
@@ -145,8 +146,10 @@ client.on('message', message => {
   }
   if (message.content === '무야호') {
     message.channel.send('무야호');
-  }   
-  
+  } 
+  if (message.content === 'ping') {
+    message.channel.send('pong!');
+  } 
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
     const human = message.content; // 사람이 입력한 값을 human이라는 상수에 대입
