@@ -1222,5 +1222,41 @@
     {
         "img" : "https://t1.daumcdn.net/cfile/tistory/99CBF44E5FAA8B5D1D",
         "answer" : ["이예준"]
+    },
+    {
+        "img" : "https://image.xportsnews.com/contents/images/upload/article/2019/1125/mb_1574641097767688.jpg",
+        "answer" : ["임재현"]
+    },
+    {
+        "img" : "https://cdnweb01.wikitree.co.kr/webdata/editor/202106/22/img_20210622124202_b0a789d3.webp",
+        "answer" : ["서장훈"]
+    },
+    {
+        "img" : "https://blog.kakaocdn.net/dn/c6uZgI/btqYtOWbzrs/yldIgY9eac6KtpyI7NyZ70/img.png",
+        "answer" : ["박보영"]
+    },
+    {
+        "img" : "https://pds.joins.com/news/component/ilgan_isplus/201907/22/2019072211473197700.jpeg",
+        "answer" : ["고창석"]
+    },
+    {
+        "img" : "http://ojsfile.ohmynews.com/STD_IMG_FILE/2021/0730/IE002846208_STD.jpg",
+        "answer" : ["안산"]
+    },
+    {
+        "img" : "https://dimg.donga.com/wps/NEWS/IMAGE/2021/07/26/108157965.2.jpg",
+        "answer" : ["김제덕"]
+    },
+    {
+        "img" : "https://www.airport.kr/static/sm/images/img_player_Chaeyoojung.jpg",
+        "answer" : ["채유정"]
+    },
+    {
+        "img" : "https://img.khan.co.kr/news/2021/08/19/l_2021082001002474800218011.jpg",
+        "answer" : ["신유빈"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2021/07/image_readtop_2021_736236_16276055564734541.jpg",
+        "answer" : ["기보배"]
     }
 ]
