@@ -121,11 +121,14 @@ client.on('message', message => {
     message.channel.send('무야호');
   } 
   if (message.content === 'ping') {
-  message.channel.send (`🏓 pong! ${client.ws.ping}ms`);
-  }
-  if (message.content === '핑1') {
     const embed = new Discord.MessageEmbed()
-      .setTitle(`:ping_pong: pong! ${client.ws.ping}ms`)
+    .setTitle(`🏓 pong! ${client.ws.ping}ms`)
+    .setColor('RANDOM');
+  return message.channel.send(embed);
+}
+  if (message.content === '핑') {
+    const embed = new Discord.MessageEmbed()
+      .setTitle(`🏓 pong! ${client.ws.ping}ms`)
       .setColor('RANDOM');
     return message.channel.send(embed);
   }
