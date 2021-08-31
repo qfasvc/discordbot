@@ -124,8 +124,10 @@ client.on('message', message => {
   message.channel.send (`🏓 pong! ${client.ws.ping}ms`);
   }
   if (message.content === '핑1') {
-    new Discord.MessageEmbed()
-    .setTitle(`🏓 pong! ${client.ws.ping}ms`);
+    const embed = new Discord.MessageEmbed()
+      .setTitle(`:ping_pong: pong! ${client.ws.ping}ms`)
+      .setColor('RANDOM');
+    return message.channel.send(embed);
   }
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
@@ -136,7 +138,7 @@ client.on('message', message => {
     const bot = list[random]; //가위, 바위, 보 중 랜덤한 하나를 bot에 대입
 
 
-    let winner = ""; // 승자가 들어갈 변수 (let : 변수, comst : 바꿀 수 없는 상수)
+    let winner = ""; // 승자가 들어갈 변수 (let : 변수, const : 바꿀 수 없는 상수)
 
     //만약 사람이 낸거랑, 봇이 낸거랑 같다면
     if (human === bot) {
