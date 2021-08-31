@@ -125,7 +125,7 @@ client.on('message', message => {
   }
   if (message.content === '핑1') {
     new Discord.MessageEmbed()
-    .setTitle(`🏓 pong! ${client.ws.ping}ms`)
+    .setTitle(`🏓 pong! ${client.ws.ping}ms`);
   }
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
