@@ -128,7 +128,7 @@ client.on('message', message => {
 }
   if (message.content === '핑') {
     const embed = new Discord.MessageEmbed()
-      .setTitle(`🏓 pong! ${client.ws.ping}ms`)
+      .setTitle(`🏓 퐁 ${client.ws.ping}ms`)
       .setColor('RANDOM');
     return message.channel.send(embed);
   }
