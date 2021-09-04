@@ -39,6 +39,10 @@ client.on('message', message => {
   if (message.content.startsWith('!전적')) {
     require('./commands/opgg.js')('!전적', message);
   }
+  
+  if (message.content.startsWith('!롤체')) {
+    require('./commands/tft.js')('!롤체', message);
+  }
 
   if (message.content === "!퀴즈") {
     require('./commands/quiz')(message, quiz);
