@@ -43,6 +43,9 @@ client.on('message', message => {
   if (message.content.startsWith('!롤체')) {
     require('./commands/tft.js')('!롤체', message);
   }
+  if (message.content.startsWith('!배그')) {
+    require('./commands/pubg.js')('!배그', message);
+  }
 
   if (message.content === "!퀴즈") {
     require('./commands/quiz')(message, quiz);
