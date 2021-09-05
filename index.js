@@ -49,7 +49,7 @@ client.on('message', message => {
   }  
   
   if (message.content.startsWith('!이터널리턴')) {
-    require('./commands/pubg.js')('!이터널리턴', message);
+    require('./commands/er.js')('!이터널리턴', message);
   }
 
   if (message.content === "!퀴즈") {
