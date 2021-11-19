@@ -1262,6 +1262,38 @@
     {
         "img" : "http://m.xportsnews.com/contents/images/upload/article/2019/1231/1577731733123565.jpg",
         "answer" : ["황인욱"]
+    },
+    {
+        "img" : "https://img.etoday.co.kr/pto_db/2021/05/600/20210516141119_1620833_646_969.jpg",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2021/04/image_readtop_2021_330747_16177500644599916.jpg",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://file.mk.co.kr/meet/neds/2021/03/image_readtop_2021_214141_16149217794562869.jpg",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://cdn.dailyimpact.co.kr/news/photo/201901/50650_10024_2221.jpg",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/GQHvBGcZT3xfDpQ3h18nLp16iPmqlPwn2N9rSp1Ojnu74LF9rIkMed0ttdbwKWcUSwCpSbVINYE3hq7bc89v4PzWrCQIo6d489OS008t8dXGBWpHYoPsMRnOchM",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://img2.sbs.co.kr/img/sbs_cms/WE/2019/08/09/WE97496996_ori.jpg",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://lh3.googleusercontent.com/proxy/vDjXjMNDiSsJbOLlQUWRR5bD6VY7p7-ibkZwkAACNyZMYyPs9NbBseuJpgzK8Q086xrcfYWgR10wG4G8qEDW4i8nJOcI53UcSXh0w6SmZ_B-pKl1pAhtuuI0C5nRgHgaYLkMcAKCQd4YvGTIph3BhvGlFsiToRPi-A",
+        "answer" : ["아이유","이지은"]
+    },
+    {
+        "img" : "https://cdn.topstarnews.net/news/photo/201804/392634_37896_4710.jpg",
+        "answer" : ["아이유","이지은"]
     }
 ]
 
