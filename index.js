@@ -149,7 +149,7 @@ client.on('message', message => {
       const embed = new Discord.MessageEmbed()
       .setTitle('화요일 1교시는 D밴드 입니다.')
       .setDescription('전진욱님의 화요일 1교시는 인공지능과 미래사회 입니다.')
-      .addField("선생님", "설희준")
+      .addField("담당선생님", "설희준")
       .addField("장소", "컴퓨터실")
       .setColor('RED')
     return message.channel.send(embed);
@@ -159,7 +159,7 @@ client.on('message', message => {
     const embed = new Discord.MessageEmbed()
     .setTitle('화요일 2교시는 D밴드 입니다.')
     .setDescription('전진욱님의 화요일 2교시는 인공지능과 미래사회 입니다.')
-    .addField("선생님", "설희준")
+    .addField("담당선생님", "설희준")
     .addField("장소", "컴퓨터실")
     .setColor('RED')
   return message.channel.send(embed);
@@ -168,6 +168,8 @@ client.on('message', message => {
 if (message.content === '화3') {
     const embed = new Discord.MessageEmbed()
     .setTitle('화요일 3교시는 B밴드 입니다.')
+    .addField("담당선생님", "여지영")
+    .addField("장소", "2학년 2반")
     .setDescription('전진욱님의 화요일 3교시는 미적분 입니다.')
     .setColor('RED')
   return message.channel.send(embed);
@@ -176,6 +178,38 @@ if (message.content === '화4') {
   const embed = new Discord.MessageEmbed()
   .setTitle('화요일 4교시는 원반 입니다.')
   .setDescription('전진욱님의 화요일 4교시는 일본어 입니다.')
+  .addField("담당선생님", "김성경")
+  .addField("장소", "2학년 2반")
+  .setColor('RED')
+return message.channel.send(embed);
+}
+
+if (message.content === '화5') {
+  const embed = new Discord.MessageEmbed()
+  .setTitle('화요일 5교시는 E밴드 입니다.')
+  .setDescription('전진욱님의 화요일 5교시는 영어2 입니다.')
+  .addField("담당선생님", "박정수")
+  .addField("장소", "2학년 4반")
+  .setColor('RED')
+return message.channel.send(embed);
+}
+
+if (message.content === '화6') {
+  const embed = new Discord.MessageEmbed()
+  .setTitle('화요일 6교시는 원반 입니다.')
+  .setDescription('전진욱님의 화요일 6교시는 A밴드 입니다.')
+  .addField("담당선생님", "주정운")
+  .addField("장소", "국어교과실")
+  .setColor('RED')
+return message.channel.send(embed);
+}
+
+if (message.content === '화7') {
+  const embed = new Discord.MessageEmbed()
+  .setTitle('화요일 7교시는 F밴드 입니다.')
+  .setDescription('전진욱님의 화요일 7교시는 윤리와사상 입니다.')
+  .addField("담당선생님", "김영재")
+  .addField("장소", "2학년 7반")
   .setColor('RED')
 return message.channel.send(embed);
 }
