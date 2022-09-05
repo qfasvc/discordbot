@@ -144,12 +144,14 @@ client.on('message', message => {
       .setColor('RANDOM');
     return message.channel.send(embed);
   }
-  if (message.content === '화요일 1교시'){
-    const embed = new Discord.MessageEmbed()
+  if (message.content === '화요일 1교시') {
+      const embed = new Discord.MessageEmbed()
       .setTitle('화요일 1교시는 D밴드 입니다.')
       .setDescription('전진욱님의 화요일 1교시는 인공지능과 미래사회 입니다.')
       .setColor('RED')
+    return message.channel.send(embed);
   }
+
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
     const human = message.content; // 사람이 입력한 값을 human이라는 상수에 대입
