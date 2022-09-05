@@ -145,7 +145,7 @@ client.on('message', message => {
     return message.channel.send(embed);
   }
   if (message.content === '화요일 1교시'){
-    const embed = new Discord.MessageEmbed
+    const embed = new Discord.MessageEmbed()
       .setTitle('화요일 1교시는 D밴드 입니다.')
       .setDescription('전진욱님의 화요일 1교시는 인공지능과 미래사회 입니다.')
       .setColor('RED')
