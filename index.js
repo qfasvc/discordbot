@@ -58,6 +58,10 @@ client.on('message', message => {
   if (message.content === "!인물퀴즈") {
     require('./commands/humanquiz')(message, huquiz);
   }
+  
+  if (message.content === "!축구") {
+    require('./commands/soccerquiz')(message, huquiz);
+  }
 
   if (message.content.substring(0, 3) === "!투표") {
 
