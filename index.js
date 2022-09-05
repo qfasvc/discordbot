@@ -144,13 +144,41 @@ client.on('message', message => {
       .setColor('RANDOM');
     return message.channel.send(embed);
   }
-  if (message.content === '화요일 1교시') {
+
+  if (message.content === '화1') {
       const embed = new Discord.MessageEmbed()
       .setTitle('화요일 1교시는 D밴드 입니다.')
       .setDescription('전진욱님의 화요일 1교시는 인공지능과 미래사회 입니다.')
+      .addField("선생님", "설희준")
+      .addField("장소", "컴퓨터실")
       .setColor('RED')
     return message.channel.send(embed);
   }
+
+  if (message.content === '화2') {
+    const embed = new Discord.MessageEmbed()
+    .setTitle('화요일 2교시는 D밴드 입니다.')
+    .setDescription('전진욱님의 화요일 2교시는 인공지능과 미래사회 입니다.')
+    .addField("선생님", "설희준")
+    .addField("장소", "컴퓨터실")
+    .setColor('RED')
+  return message.channel.send(embed);
+}
+
+if (message.content === '화3') {
+    const embed = new Discord.MessageEmbed()
+    .setTitle('화요일 3교시는 B밴드 입니다.')
+    .setDescription('전진욱님의 화요일 3교시는 미적분 입니다.')
+    .setColor('RED')
+  return message.channel.send(embed);
+}
+if (message.content === '화4') {
+  const embed = new Discord.MessageEmbed()
+  .setTitle('화요일 4교시는 원반 입니다.')
+  .setDescription('전진욱님의 화요일 4교시는 일본어 입니다.')
+  .setColor('RED')
+return message.channel.send(embed);
+}
 
   // 입력한 값이 가위 또는 바위 또는 보일때
   if (message.content === "가위" || message.content === "바위" || message.content === "보") {
