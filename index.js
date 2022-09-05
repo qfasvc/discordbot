@@ -60,7 +60,7 @@ client.on('message', message => {
   }
   
   if (message.content === "!축구") {
-    require('./commands/soccerquiz')(message, huquiz);
+    require('./commands/soccerquiz')(message, soccerquiz);
   }
 
   if (message.content.substring(0, 3) === "!투표") {
